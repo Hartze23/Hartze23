@@ -1,4 +1,4 @@
-h1>Hi, I'm Marcel! <br/><a href="https://github.com/Hartze23">Programmer</a>, <a href="https://www.linkedin.com/in/marcel-garcia-40695119b/> Cybersecurity and AI enthusiast </a></h1>
+h1>Hi, I'm Marcel! <br/><a href="https://github.com/Hartze23">Computer Science Student</a>, <a href="https://www.linkedin.com/in/marcel-garcia-40695119b/> Cybersecurity and AI enthusiast </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
